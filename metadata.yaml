@@ -1,0 +1,32 @@
+_repo: Edward-Hoare-M.A.A-record-of-his-life-based-upon-a-brief-autobiography_39271
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hoare, Edward
+    birthdate: 1812
+    deathdate: 1894
+    gutenberg_agent_id: '39940'
+    url: http://www.gutenberg.org/2009/agents/39940
+  editor:
+    agent_name: Townsend, John Hume
+    gutenberg_agent_id: '39931'
+    url: http://www.gutenberg.org/2009/agents/39931
+description: ''
+gutenberg_issued: '2012-03-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39271'
+  lccn: '22021132'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Hoare, E. (Edward), 1812-1894'
+- !lcsh 'Church of England -- Clergy -- Biography'
+title: 'Edward Hoare, M.A.: A record of his life based upon a brief autobiography'
+url: http://www.gutenberg.org/ebooks/39271
